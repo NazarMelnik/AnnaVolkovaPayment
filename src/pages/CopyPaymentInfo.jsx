@@ -36,7 +36,7 @@ const CopyPaymentInfo = () => {
                 <Field
                     className="animate__animated animate__fadeIn"
                     data-wow-delay="0.3s"
-                    label="ПІБ" value={data.pib}
+                    label="Найменування отримувача" value={data.pib}
                 />
                 <Field
                     className="animate__animated animate__fadeIn"
