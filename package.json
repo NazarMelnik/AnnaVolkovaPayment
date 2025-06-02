@@ -2,6 +2,7 @@
   "name": "temp-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nazarmelnik.github.io/AnnaVolkovaPayment",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -12,8 +13,7 @@
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
     "sass": "^1.89.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://nazarmelnik.github.io/AnnaVolkovaPayment"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
