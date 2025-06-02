@@ -26,7 +26,7 @@ const Notification = ({ show, setShow, text }) => {
                 data-wow-duration="0.4s"
             >
                 <CheckCircle color="#4CAF50" size={24} />
-                <span className={styles.message}>{text}</span>
+                <span className={styles.notification__message}>{text}</span>
             </div>
         ) : null
     );
