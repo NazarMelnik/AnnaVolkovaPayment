@@ -2,15 +2,21 @@
     min-height: 100dvh
     display: flex
     justify-content: center
+    flex-direction: column
     align-items: center
     background: url('./media/main-bg.jpg') center/ cover no-repeat
     &__wrapper
         box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px
-        max-width: 600px
         padding: 20px
         border-radius: 20px
         background-color: #fff
-        width: 100%
+        width: calc(100% - 40px)
+        margin: 0 20px
+        max-width: 600px
+        @media screen and (max-width: 1141px)
+            max-width: unset
     &__title
+        font-size: 24px
+        line-height: 28px
         font-family: 'Unbounded'
         margin-bottom: 20px
