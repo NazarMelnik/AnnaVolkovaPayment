@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cbd2425.css",
-    "main.js": "/static/js/main.8e2a308f.js",
-    "static/media/main-bg.jpg": "/static/media/main-bg.0b0256c15fdf817f5e91.jpg",
-    "index.html": "/index.html",
-    "main.0cbd2425.css.map": "/static/css/main.0cbd2425.css.map",
-    "main.8e2a308f.js.map": "/static/js/main.8e2a308f.js.map"
+    "main.css": "/AnnaVolkovaPayment/static/css/main.e1d49f3a.css",
+    "main.js": "/AnnaVolkovaPayment/static/js/main.8e2a308f.js",
+    "static/media/main-bg.jpg": "/AnnaVolkovaPayment/static/media/main-bg.0b0256c15fdf817f5e91.jpg",
+    "index.html": "/AnnaVolkovaPayment/index.html",
+    "main.e1d49f3a.css.map": "/AnnaVolkovaPayment/static/css/main.e1d49f3a.css.map",
+    "main.8e2a308f.js.map": "/AnnaVolkovaPayment/static/js/main.8e2a308f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cbd2425.css",
+    "static/css/main.e1d49f3a.css",
     "static/js/main.8e2a308f.js"
   ]
 }
