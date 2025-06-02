@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AnnaVolkovaPayment/static/css/main.e1d49f3a.css",
+    "main.css": "/AnnaVolkovaPayment/static/css/main.cf642c40.css",
     "main.js": "/AnnaVolkovaPayment/static/js/main.8e2a308f.js",
     "static/media/main-bg.jpg": "/AnnaVolkovaPayment/static/media/main-bg.0b0256c15fdf817f5e91.jpg",
     "index.html": "/AnnaVolkovaPayment/index.html",
-    "main.e1d49f3a.css.map": "/AnnaVolkovaPayment/static/css/main.e1d49f3a.css.map",
+    "main.cf642c40.css.map": "/AnnaVolkovaPayment/static/css/main.cf642c40.css.map",
     "main.8e2a308f.js.map": "/AnnaVolkovaPayment/static/js/main.8e2a308f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1d49f3a.css",
+    "static/css/main.cf642c40.css",
     "static/js/main.8e2a308f.js"
   ]
 }
